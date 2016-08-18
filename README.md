@@ -1,1 +1,2 @@
 # ccomp
+print "Hello Word"
